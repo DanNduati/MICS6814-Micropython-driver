@@ -1,4 +1,4 @@
-# MICS6814 micropython driver
+# MICS6814 Micropython driver
 ## Hardware
 The MICS6814 sensor measures changes in the concentration of gases 
 including carbon monoxide (CO), nitrogen dioxide (NO2), and ammonia (NH3) 
