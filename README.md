@@ -6,8 +6,8 @@ with this Breakout Garden compatible I2C breakout.The breakout board
 uses a Nuvoton MS51 microcontroller to give you an I2C interface for the sensor(redundant huh!)
 
 <p align="center">
-<img height="500" src="images/MICS6814_1.jpg"></img>
-<img height="500" src="images/MICS6814_2.jpg"></img>
+<img height="300" src="images/MICS6814_1.jpg"></img>
+<img height="300" src="images/MICS6814_2.jpg"></img>
 </p>
 
 ## Usage
