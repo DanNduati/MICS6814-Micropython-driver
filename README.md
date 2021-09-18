@@ -5,7 +5,11 @@ including carbon monoxide (CO), nitrogen dioxide (NO2), and ammonia (NH3)
 with this Breakout Garden compatible I2C breakout.The breakout board
 uses a Nuvoton MS51 microcontroller to give you an I2C interface for the sensor(redundant huh!)
 
+<p align="center">
 <img height="500" src="images/MICS6814_1.jpg"></img>
+<img height="500" src="images/MICS6814_2.jpg"></img>
+</p>
+
 ## Usage
 ### connect
 * `SCL` -> GPIO22
