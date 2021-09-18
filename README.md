@@ -36,3 +36,6 @@ try:
 except KeyboardInterrupt:
     pass
 ```
+### References
+1. [Pimoroni python library](https://github.com/pimoroni/mics6814-python)
+2. [Arduino library](https://github.com/eNBeWe/MiCS6814-I2C-Library)
